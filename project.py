@@ -14,7 +14,7 @@ win = Tk()
 
 win.title("CAFE REX")
 
-win.geometry("1000x700")
+win.geometry("1900x830")
 
 b = 'gainsboro'
 
@@ -215,7 +215,7 @@ def menu():
     
     menu =Tk()
     
-    menu.geometry("1300x600")
+    menu.geometry("1400x600")
     
     menu.title("Menu")
 
